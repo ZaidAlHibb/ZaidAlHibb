@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=hey%2C+i'm+Zaid;vibe+coder+(yes%2C+really);code+runs+better+with+music+on;still+figuring+out+html%2C+css%2C+php%2C+python%2C+c+%26+lua" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=hey%2C+i'm+Zaid;vibe+coder+(yes%2C+really);code+runs+better+with+music+on;jdon+my+soul" alt="typing intro" />
 
 ![vibe coding](https://img.shields.io/badge/mode-vibe_coding-a78bfa?style=flat-square)
 ![music](https://img.shields.io/badge/powered_by-spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
