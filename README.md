@@ -1,14 +1,3 @@
-<!-- ============================================================
-  HOW TO USE
-  1. Create a repo named exactly like your GitHub username (Public).
-  2. Rename this file to README.md and put it in that repo.
-  3. Upload your images to the repo:
-       assets/photos/1.jpg ... 5.jpg   -> the 5 pictures in "about me"
-       assets/albums/1.jpg ... 5.jpg   -> album covers for "songs i keep coming back to"
-     Use SQUARE images (e.g. 640x640) so they don't get stretched.
-  4. Search for YOUR_ and replace each one with your own info.
-============================================================ -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=hey%2C+i'm+Zaid;vibe+coder+(yes%2C+really);code+runs+better+with+music+on;still+figuring+out+html%2C+css%2C+php%2C+python%2C+c+%26+lua" alt="typing intro" />
@@ -25,7 +14,7 @@
 
 I code by feel. I put on a playlist, open the editor, and see where it goes. Planning usually comes after the first working version, not before.
 
-Right now I'm trying to get comfortable with HTML, CSS, PHP, Python, C and Lua. Some of them click, some of them really don't (looking at you, pointers).
+gen bruh i just coding shi, i love design, i love editing some vids, i love you <3.
 
 Reach me at @crescenss (instagram).
 
@@ -35,7 +24,7 @@ Reach me at @crescenss (instagram).
 <p align="center">
   <img src="https://i.pinimg.com/736x/fc/9d/14/fc9d141faf0c5ea0e7d3bb794ed94b9c.jpg" width="130" height="130" alt="photo 1" />
   <img src="https://i.pinimg.com/736x/f1/a9/ac/f1a9acd465ab2e62e3703259957c1687.jpg" width="130" height="130" alt="photo 2" />
-  <img src="https://i.pinimg.com/736x/8c/b1/cb/8cb1cbb4c3dd71ed4cb5b26df5c86f41.jpg" width="130" height="130" alt="photo 3" />
+  <img src="https://i.pinimg.com/736x/42/b6/06/42b6065805309a8d0c51d79fc5f80940.jpg" width="130" height="130" alt="photo 3" />
   <img src="https://i.pinimg.com/736x/b2/dc/59/b2dc59c8bb6e93d07db59fa52ba68826.jpg" width="130" height="130" alt="photo 4" />
   <img src="https://i.pinimg.com/736x/82/ea/d4/82ead400f17dc14ee2cb0ab3ed767bf4.jpg" width="130" height="130" alt="photo 5" />
 </p>
@@ -55,12 +44,6 @@ Reach me at @crescenss (instagram).
 </div>
 
 <sub>Updates live when I'm listening. If nothing is playing, it shows the last track I played.</sub>
-
-<!--
-  Album art not showing? Keep cover_image=true and try theme=natemoo-re
-  or theme=compact in the link above. If the public widget is down,
-  deploy your own copy on Vercel and swap the domain.
--->
 
 ---
 
