@@ -67,7 +67,7 @@ Reach me at @crescenss (instagram).
 ### songs i keep coming back to
 
 <!-- Click a cover to open the song on Spotify. -->
-<table>
+<table align="center">
   <tr>
     <td align="center" width="110"><a href="https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH?si=8ca569770d2a4e52"><img src="https://i.pinimg.com/736x/76/5b/1a/765b1aa59ea8a1e8cb5ba83e9b56bfef.jpg" width="90" height="90" alt="YOUR_SONG_1" /></a></td>
     <td><b>Merry Christmas, Please Don't Call</b><br/>Bleachers </td>
@@ -103,7 +103,7 @@ my playist 3: [open on Spotify](https://open.spotify.com/playlist/4KmFPOBrfZJpRD
 
 <img src="https://skillicons.dev/icons?i=html,css,php,py,c,lua&perline=6" alt="languages" />
 
-</div>
+
 
 | Language | Where I'm at | What I'm poking at |
 |----------|--------------|--------------------|
@@ -114,6 +114,7 @@ my playist 3: [open on Spotify](https://open.spotify.com/playlist/4KmFPOBrfZJpRD
 | C | just started | pointers, memory, why it segfaults |
 | Lua | just started | make sum roblox game lmao |
 
+</div>
 ---
 
 ### my vibe coding loop
