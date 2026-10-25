@@ -9,6 +9,7 @@
 </div>
 
 ---
+<div align="center">
 
 ### about me
 
@@ -19,6 +20,8 @@ gen bruh i code when i feel like it lol, i love design, i love editing some vids
 Reach me at @crescenss (instagram).
 
 <br/>
+
+</div>
 
 <!-- Your own 5 pictures. Keep them square. -->
 <p align="center">
