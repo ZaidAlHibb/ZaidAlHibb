@@ -44,13 +44,17 @@ Reach me at @crescenss (instagram).
   </a>
 </p>
 
-</div>
-
 <sub>Updates live when I'm listening. If nothing is playing, it shows the last track I played.</sub>
+
+
 
 ---
 
+<div align="center"
+
 ### songs i keep coming back to
+
+</div>
 
 <!-- Click a cover to open the song on Spotify. -->
 <table align="center">
@@ -84,9 +88,9 @@ my playlist 3: <a href="https://open.spotify.com/playlist/4KmFPOBrfZJpRDK81nZsc6
 
 ---
 
-### what i'm learning
-
 <div align="center">
+
+### what i'm learning
 
 <img src="https://skillicons.dev/icons?i=html,css,php,py,c,lua&perline=6" alt="languages" />
 
@@ -115,7 +119,11 @@ my playlist 3: <a href="https://open.spotify.com/playlist/4KmFPOBrfZJpRDK81nZsc6
 
 ---
 
+<div align="center">
+
 ### my vibe coding loop
+
+</div>
 
 ```text
 playlist on
@@ -128,9 +136,9 @@ playlist on
 
 ---
 
-### stats
-
 <div align="center">
+
+### stats
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaidalhibb&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalhibb&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
