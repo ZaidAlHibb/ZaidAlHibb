@@ -102,6 +102,16 @@ my playlist 3: <a href="https://open.spotify.com/playlist/4KmFPOBrfZJpRDK81nZsc6
 
 ---
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidalhibb/zaidalhibb/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidalhibb/zaidalhibb/output/minesweeper-contribution-graph.svg">
+  <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/zaidalhibb/zaidalhibb/output/minesweeper-contribution-graph.svg">
+</picture>
+</div>
+
+---
+
 ### my vibe coding loop
 
 ```text
