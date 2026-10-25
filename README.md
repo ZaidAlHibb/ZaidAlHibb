@@ -1,10 +1,3 @@
-
-<div align="center">
-  <img src="bina1.gif" width="100%" alt="banner" />
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=hey%2C+i'm+Zaid;vibe+coder+(yes%2C+really);code+runs+better+with+music+on;still+figuring+out+html%2C+css%2C+php%2C+python%2C+c+%26+lua" alt="typing intro" />
