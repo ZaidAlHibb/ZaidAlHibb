@@ -12,9 +12,11 @@
 
 ### about me
 
-I code by feel. I put on a playlist, open the editor, and see where it goes. Planning usually comes after the first working version, not before.
+yall can call me Zaid (he/him • straight)
 
-gen bruh i just coding shi, i love design, i love editing some vids, i love you <3.
+Computer System Engineering Student
+
+gen bruh i code when i feel like it lol, i love design, i love editing some vids, i love you <3.
 
 Reach me at @crescenss (instagram).
 
