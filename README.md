@@ -14,8 +14,6 @@
 
 yall can call me Zaid (he/him • straight)
 
-Computer System Engineering Student
-
 gen bruh i code when i feel like it lol, i love design, i love editing some vids, i love you <3.
 
 Reach me at @crescenss (instagram).
