@@ -34,9 +34,9 @@ Reach me at @crescenss (instagram).
 
 ---
 
-### currently listening to
-
 <div align="center">
+  
+### currently listening to
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313ct45w5s4nujevfkqwobw2y2lq&redirect=true">
