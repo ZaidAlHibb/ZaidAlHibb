@@ -73,10 +73,11 @@ Reach me at @crescenss (instagram).
   </tr>
 </table>
 
+<div align="center">
 my playist 1: [open on Spotify](https://open.spotify.com/playlist/2fR6TdI8ySm0NprnC0KvW1?si=645de322b6424a4c)\
 my playist 2: [open on Spotify](https://open.spotify.com/playlist/5tF0kicE493V3vFYidmW3f?si=fb7ef0995f424988)\
 my playist 3: [open on Spotify](https://open.spotify.com/playlist/4KmFPOBrfZJpRDK81nZsc6?si=bf7c5e6a46864c3b)
-
+</div>
 
 ---
 
