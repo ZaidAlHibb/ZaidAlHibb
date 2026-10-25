@@ -133,3 +133,7 @@ playlist on
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalhibb&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
+
+<div align="center">
+  <img src="bina.gif" width="100%" alt="banner" />
+</div>
