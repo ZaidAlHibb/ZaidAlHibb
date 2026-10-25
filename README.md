@@ -50,7 +50,7 @@ Reach me at @crescenss (instagram).
 
 ---
 
-<div align="center"
+<div align="center">
 
 ### songs i keep coming back to
 
