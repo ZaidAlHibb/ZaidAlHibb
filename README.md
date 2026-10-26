@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ZaidAlHibb/ZaidAlHibb/blob/main/bina1.gif?raw=true" width="100%" alt="banner" />
+  <img src="https://github.com/ZaidAlHibb/ZaidAlHibb/blob/main/bina3.gif?raw=true" width="100%" alt="banner" />
 </div>
 
 ---
