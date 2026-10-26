@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://github.com/ZaidAlHibb/ZaidAlHibb/blob/main/bina1.gif?raw=true" width="100%" alt="banner" />
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=hey%2C+i'm+Zaid;vibe+coder+(yes%2C+really);code+runs+better+with+music+on;jdon+my+soul" alt="typing intro" />
 
@@ -146,10 +152,6 @@ playlist on
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/ZaidAlHibb/ZaidAlHibb/blob/main/bina1.gif?raw=true" width="100%" alt="banner" />
-</div>
 
 <div align="center">
   <img src="bina.gif" width="100%" alt="banner" />
